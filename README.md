@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello world! ✨
+Welcome to my personal repository. My name is Stephanie. I am currently pursuing a Bachelor's degree in Computer Science.
 
 <!--
 **stephkmn/stephkmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
