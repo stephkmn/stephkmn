@@ -1,5 +1,11 @@
 ## Hello world! ✨
-Welcome to my personal repository. My name is Stephanie and I hope you like my projects! 
+I'm Stephanie, a Computer Science student current based in the US.
+
+I build stuff to learn and improve my skills.
+This is where I upload all my projects.
+I am currently learning and experimenting with different tech stacks.
+
+The language I am most comfortable with is C++.
 
 <!--
 **stephkmn/stephkmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
