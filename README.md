@@ -1,5 +1,5 @@
 ## Hello world! ✨
-I'm Stephanie, a Computer Science student current based in the US.
+I'm Stephanie, a Computer Science student currently based in the US.
 
 I build stuff to learn and improve my skills.
 This is where I upload all my projects.
