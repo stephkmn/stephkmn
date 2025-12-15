@@ -1,11 +1,11 @@
 ## Hello world! ✨
 I'm Stephanie, a Computer Science student currently based in the US.
 
-I build stuff to learn and improve my skills.
+I like to build stuff to learn and improve my skills.
 This is where I upload all my projects.
-I am currently learning and experimenting with different tech stacks.
 
-The language I am most comfortable with is C++.
+🗨️ I am currently working on a Pokemon VGC team builder chatbot, an AI chatbot that suggests strong teams according to the current meta and format, taking into account the user's input and suggestions.
+
 
 <!--
 **stephkmn/stephkmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
