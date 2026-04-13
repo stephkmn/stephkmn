@@ -4,7 +4,7 @@ I'm Stephanie, a Computer Science student currently based in the US.
 I like to build stuff to learn and improve my skills.
 This is where I upload all my projects.
 
-🗨️ I am currently working on a Pokemon VGC team builder chatbot, an AI chatbot that suggests strong teams according to the current meta and format, taking into account the user's input and suggestions.
+🗨️ I am currently working on an Tinder style email inbox cleaner.
 
 
 <!--
